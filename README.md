@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VereSpiritum
 - 👀 I’m interested in programming and vocal
 - 🌱 I’m currently learning C, C++, C#, HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me aksenia1725@gmail.com
 
 <!---
 VereSpiritum/VereSpiritum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

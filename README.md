@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VereSpiritum
 - 👀 I’m interested in programming and vocal
-- 🌱 I’m currently learning C, C++, C#, HTML, CSS, JS
+- 🌱 I’m currently learning C#, HTML, CSS, JS
 - 📫 How to reach me aksenia1725@gmail.com
 
 <!---
